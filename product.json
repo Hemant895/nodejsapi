@@ -1,63 +1,42 @@
 [
     {
-        "name":"Hemant",
-        "price":"45",
-        "company":"dell"
+        "img": "https://post.healthline.com/wp-content/uploads/2020/09/health-benefits-of-apples-1200x628-facebook-1200x628.jpg",
+        "price": "50",
+        "title": "Kashmiri Apples"
     },
     {
-        "name":"Rahul",
-        "price":"65",
-        "company":"dell"
+        "img": "https://th.bing.com/th/id/OIP.D5X6ywzirpcTg1C3BoFUlwHaEo?pid=ImgDet&rs=1",
+        "price": "20",
+        "title": "Fresh bananas"
     },
     {
-        "name":"krishna",
-        "price":"75",
-        "company":"lava"
+        "img": "https://photo-cdn.urdupoint.com/show_img_new/women/women_article_images/2018/670x420/pic_7f1bc_1519983427.jpg._3",
+        "price": "30",
+        "title": "Green Grapes"
     },
     {
-        "name":"sagar",
-        "price":"45",
-        "company":"iphone"
+        "img": "https://th.bing.com/th/id/R.876223bd3634565f2a8b2b436fa82173?rik=VD0%2bCzTKI3Wjgw&riu=http%3a%2f%2fwww.watamukenya.net%2fimages%2fuploads%2farticoli%2f307_l.jpg&ehk=ZlmNDOugslpFNQ5eYVioTV3jAlOdEgYZTs7g%2fu9k42M%3d&risl=&pid=ImgRaw&r=0",
+        "price": "50",
+        "title": "Papaya"
     },
     {
-        "name":"mehul",
-        "price":"65",
-        "company":"realme"
+        "img": "https://1.bp.blogspot.com/-g2Qr_INiHX8/Uq59JZQdseI/AAAAAAAACjg/WgFVBDipe7g/s1600/cherries.jpg",
+        "price": "50",
+        "title": "Cherry"
     },
     {
-        "name":"krishna",
-        "price":"75",
-        "company":"samsung"
-    }
-    ,
-    {
-        "name":"sagar",
-        "price":"45",
-        "company":"iphone"
+        "img": "https://wallpapercave.com/wp/77k3bCC.jpg",
+        "price": "60",
+        "title": "Mangos"
     },
     {
-        "name":"mehul",
-        "price":"65",
-        "company":"realme"
+        "img": "https://media.self.com/photos/5b4371cc4d0c3c282a8878d3/4:3/w_2560%2Cc_limit/pineapple.jpg",
+        "price": "30",
+        "title": "Pineapple"
     },
     {
-        "name":"krishna",
-        "price":"75",
-        "company":"samsung"
-    },
-    {
-        "name":"sagar",
-        "price":"45",
-        "company":"iphone"
-    },
-    {
-        "name":"mehul",
-        "price":"65",
-        "company":"realme"
-    },
-    {
-        "name":"jetha",
-        "price":"75",
-        "company":"samsung"
-    }
+      "img": "https://www.windsoreats.com/wp-content/uploads/2015/05/strawberry1.jpg",
+      "price": "90",
+      "title": "Strawberry "
+   }
 ]
